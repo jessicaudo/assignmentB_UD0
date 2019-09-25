@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/jeudo/03d41be3-7bd8-45ea-a546-cd5535470c85/4a93b5dc-9546-421c-a796-81cd3b8eb0aa/_apis/work/boardbadge/75bbac5f-00df-45ef-b401-9d910be49baa)](https://dev.azure.com/jeudo/03d41be3-7bd8-45ea-a546-cd5535470c85/_boards/board/t/4a93b5dc-9546-421c-a796-81cd3b8eb0aa/Microsoft.FeatureCategory)
